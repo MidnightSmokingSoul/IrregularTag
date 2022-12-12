@@ -14,7 +14,7 @@
 		04CD12792947042C003ABE5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CD12782947042C003ABE5D /* Assets.xcassets */; };
 		04CD127C2947042C003ABE5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CD127A2947042C003ABE5D /* LaunchScreen.storyboard */; };
 		04CD12852947046F003ABE5D /* XHTagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CD12842947046F003ABE5D /* XHTagView.swift */; };
-		04CD128B294723C9003ABE5D /* image1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04CD128A294723C9003ABE5D /* image1.gif */; };
+		04CD128B294723C9003ABE5D /* image.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04CD128A294723C9003ABE5D /* image.gif */; };
 		3C0B67165671A73CEA623A11 /* Pods_IrregularTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0AB3115FCB44C93CDF88BE1 /* Pods_IrregularTag.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +28,7 @@
 		04CD127B2947042C003ABE5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04CD127D2947042C003ABE5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04CD12842947046F003ABE5D /* XHTagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XHTagView.swift; sourceTree = "<group>"; };
-		04CD128A294723C9003ABE5D /* image1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image1.gif; sourceTree = "<group>"; };
+		04CD128A294723C9003ABE5D /* image.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = image.gif; sourceTree = "<group>"; };
 		34565A366D32566561269890 /* Pods-IrregularTag.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IrregularTag.debug.xcconfig"; path = "Target Support Files/Pods-IrregularTag/Pods-IrregularTag.debug.xcconfig"; sourceTree = "<group>"; };
 		917C38F368BB609F963E963E /* Pods-IrregularTag.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IrregularTag.release.xcconfig"; path = "Target Support Files/Pods-IrregularTag/Pods-IrregularTag.release.xcconfig"; sourceTree = "<group>"; };
 		F0AB3115FCB44C93CDF88BE1 /* Pods_IrregularTag.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IrregularTag.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,7 +73,7 @@
 				04CD12712947042B003ABE5D /* SceneDelegate.swift */,
 				04CD12752947042B003ABE5D /* Main.storyboard */,
 				04CD12782947042C003ABE5D /* Assets.xcassets */,
-				04CD128A294723C9003ABE5D /* image1.gif */,
+				04CD128A294723C9003ABE5D /* image.gif */,
 				04CD127A2947042C003ABE5D /* LaunchScreen.storyboard */,
 				04CD127D2947042C003ABE5D /* Info.plist */,
 			);
@@ -165,7 +165,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04CD128B294723C9003ABE5D /* image1.gif in Resources */,
+				04CD128B294723C9003ABE5D /* image.gif in Resources */,
 				04CD127C2947042C003ABE5D /* LaunchScreen.storyboard in Resources */,
 				04CD12792947042C003ABE5D /* Assets.xcassets in Resources */,
 				04CD12772947042B003ABE5D /* Main.storyboard in Resources */,
