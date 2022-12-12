@@ -1,5 +1,8 @@
 # IrregularTag
 iOS 不规则标签排列
+## 预览
+<img width="375" src="https://github.com/MidnightSmokingSoul/IrregularTag/blob/main/IrregularTag/image.gif"/>
+
 
 ## 使用 
 ```Swift
