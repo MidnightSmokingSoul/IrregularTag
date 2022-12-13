@@ -5,6 +5,7 @@ iOS 不规则标签排列
 
 
 ## 使用 
+```把 XHTagView 拖入项目 需依赖 SnapKit```
 ```Swift
 //左右排列 可滑动
 let tagView1 = XHTagView(frame: CGRect(x: 0, y: 150, width: view.frame.width, height: 25))
